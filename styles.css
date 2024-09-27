@@ -12,7 +12,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url('img.jpg') no-repeat;
+  background: url('https://i.postimg.cc/m1Pzr9Hy/loginform.jpg') no-repeat; /* Updated background image link */
   background-size: cover;
   background-position: center;
 }
